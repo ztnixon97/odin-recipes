@@ -1,0 +1,30 @@
+* {
+    background-color: white;
+}
+
+li {
+    font-size: 24px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 48px;
+}
+
+h2 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+#food-image {
+    height: 500px;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.Ingredients li, .Instructions li {
+    font-size: 18px;
+    margin-left: 10px;
+}
